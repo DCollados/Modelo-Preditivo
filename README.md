@@ -3,6 +3,7 @@
 Análise da atividade de alunos usando Python, NumPy, Pandas, SQLite e Machine Learning.
 
 🔹 Fluxo de Dados
+
 Bronze: dados brutos
 
 Prata: limpeza, transformação e criação de features
@@ -27,4 +28,5 @@ Funções para filtrar dados e aplicar limites personalizados
 Gera análises e visualizações sob demanda
 
 💻 Implementação
+
 Código, gráficos e análises totalmente reproduzíveis
